@@ -1,1 +1,24 @@
-[ ]
+[ {
+  "baseItem" : {
+    "id" : "_6VMWYB-YEe2Vf5Bm6erUEw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_D4LvkB-ZEe2Vf5Bm6erUEw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_D4LvkB-ZEe2Vf5Bm6erUEw - airfares_1",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_D4LvkB-ZEe2Vf5Bm6erUEw - airfares_2",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_D4LvkB-ZEe2Vf5Bm6erUEw - airfares_3",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
